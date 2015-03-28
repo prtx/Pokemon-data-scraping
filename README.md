@@ -1,2 +1,2 @@
 # Pokemon-data-scraping
-scrape photos and stats off pokemondb.net
+Scrape photos and stats off pokemondb.net
